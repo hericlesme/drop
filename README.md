@@ -1,2 +1,2 @@
-# drop
-Just one more alexa skill :)
+# Dropping
+Drink water
